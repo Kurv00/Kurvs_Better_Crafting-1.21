@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 300,
+  "ingredient": {
+    "item": "minecraft:brown_concrete_powder"
+  },
+  "result": {
+    "id": "minecraft:brown_concrete"
+  }
+}
