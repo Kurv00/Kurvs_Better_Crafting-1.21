@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "b": {
+      "item": "minecraft:end_rod"
+    },
+    "c": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "id": "minecraft:elytra",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stone"
+    },
+    "b": {
+      "item": "minecraft:raw_iron"
+    }
+  },
+  "result": {
+    "id": "minecraft:iron_ore",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:twisting_vines"
+    },
+    "b": {
+      "item": "minecraft:ender_eye"
+    },
+    "c": {
+      "item": "minecraft:ender_pearl"
+    },
+    "d": {
+      "item": "minecraft:repeater"
+    }
+  },
+  "result": {
+    "id": "minecraft:sculk_sensor",
+    "count": 1
+  }
+}
